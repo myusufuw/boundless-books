@@ -2,7 +2,7 @@
 Your one-stop online store for all things books!
 
 Link: 
-- Figma: -
+- UI Design: [Figma](https://www.figma.com/design/ltfVj92yGg1SX09zZ2WQY4/Boundless-Books?node-id=0-1&t=CqVHK9ooblmj6MDz-1)
 - Website: https://boundless-book.myusufuw.com
 
 Inspirations: 
