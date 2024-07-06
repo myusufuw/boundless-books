@@ -3,11 +3,18 @@ Your one-stop online store for all things books!
 
 Link: 
 - UI Design: [Figma](https://www.figma.com/design/ltfVj92yGg1SX09zZ2WQY4/Boundless-Books?node-id=0-1&t=CqVHK9ooblmj6MDz-1)
-- Website: https://boundless-book.myusufuw.com
+- Frontend:
+  - Repo: [Boundless Books Frontend Repository](https://github.com/myusufuw/boundless-books-frontend)
+  - Deployment: [Boundless Books Frontend](https://boundless-books.myusufuw.com/)
+- Backend:
+  - Repo: [Boundless Books Backend Repository](https://github.com/myusufuw/boundless-books-backend)
+  - Deployment: [Boundless Books Backend](https://boundless-books-api.myusufuw.com/)
+
 
 Inspirations: 
-- https://www.gramedia.com/
-- https://arena-book-shop.myshopify.com/
+- [Gramedia](https://www.gramedia.com/)
+- [Books Wagon](https://www.bookswagon.com/)
+- [Arena Books](https://arena-book-shop.myshopify.com/cart)
 
 Features:
 - Homepage: 
